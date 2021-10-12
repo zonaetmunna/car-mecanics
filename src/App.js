@@ -1,13 +1,15 @@
 
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Services from './Componants/Home/Services/Services';
+import Home from './Componants/Home/Home/Home';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
   return (
     <div>
-      <Services></Services>
+      <Home></Home>
     </div>
   );
 }
