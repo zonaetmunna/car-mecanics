@@ -1,0 +1,83 @@
+[
+     {
+          "idCourse": 1,
+          "courseName": "The Complete iOS 10 & Swift 3 Developer Course",
+          "courseDetails": "The WordPress plugin is a part of the Masterstudy WordPress theme for the education business. Upgrading to the theme is optional but does come with...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/895786_7b4b_2-272x161.jpg",
+          "time": " 30 total hours",
+          "instrctor": "Rob Percival"
+     },
+     {
+          "idCourse": 2,
+          "courseName": "Web Design for Beginners: Real World Coding in HTML & CSS",
+          "courseDetails": "Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/895786_7b4b_2-272x161.jpg",
+          "time": "6.5 total hours",
+          "instrctor": "Brad Schiff"
+     },
+     {
+          "idCourse": 3,
+          "courseName": "GitHub Ultimate: Master Git and GitHub – Beginner to Expert",
+          "courseDetails": "This course will comprehensively cover the GitHub hosting service as a companion to the Git source control tool, which means no prior knowledge or experience is required. Students will emerge at the end with a very solid understanding and hands-on experience with Git and GitHub.",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/752950_b773-272x161.jpg",
+          "time": " 6.5 total hours",
+          "instrctor": "Jason Taylor"
+     },
+     {
+          "idCourse": 4,
+          "courseName": "The Complete iOS 11 & Swift Developer Course – Build 20 Apps",
+          "courseDetails": "The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/1253188_58f7_2-272x161.jpg",
+          "time": " 36.5 total hours",
+          "instrctor": "Rob Percival"
+     },
+     {
+          "idCourse": 5,
+          "courseName": "Android Java Masterclass – Become an App Developer",
+          "courseDetails": "The plugin is a full package of innovative features. The system includes a powerful admin panel and course builder, messaging system, advanced quiz...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/919872_ed54_6-272x161.jpg",
+          "time": "  60.5 total hours",
+          "instrctor": "Tim Buchalka"
+     },
+     {
+          "idCourse": 6,
+          "courseName": "Xamarin Forms: Build Native Cross-platform Apps with C#",
+          "courseDetails": "Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/951684_9c1a_2-272x161.jpg",
+          "time": "  7.5 total hours",
+          "instrctor": "Mosh Hamedani"
+     },
+     {
+          "idCourse": 7,
+          "courseName": "Ethereum and Solidity: The Complete Developer’s Guide The Masterstudy LMS is a free plugin",
+          "courseDetails": "The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/1466612_bead_2-272x161.jpg",
+          "time": "  7.5 total hours",
+          "instrctor": "Stephen Grider"
+     },
+     {
+          "idCourse": 8,
+          "courseName": "C Programming For Beginners – Master the C Language Whenever it comes to in",
+          "courseDetails": "Whenever it comes to individual instructors, language or coaching centers, universities, and eLearning platforms",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/1467808_f8c0-272x161.jpg",
+          "time": "  7 total hours",
+          "instrctor": "Tim Buchalka's Learn Programming Academy"
+     },
+     {
+          "idCourse": 9,
+          "courseName": "The Complete React Developer Course (w/ Hooks and Redux)",
+          "courseDetails": "Among those features are gamification tools like points reward system, trial and group courses, assignments and lesson live streaming. You can lear...",
+          "CoursePay": 12,
+          "image": "https://stylemixthemes.com/masterstudy/udemy-affiliate/wp-content/uploads/sites/12/2020/08/1286908_1773_5-272x161.jpg",
+          "time": "  7 total hours",
+          "instrctor": "Tim Buchalka's Learn Programming Academy"
+     }
+]
