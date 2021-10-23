@@ -25,7 +25,7 @@ const Expertices = () => {
 
 
      return (
-          <div className="m-5">
+          <div id="expertices" className="m-5">
                <h1 className="text-center text-primary">our expertics</h1>
                <Row xs={1} md={2} className="g-4">
                     {
