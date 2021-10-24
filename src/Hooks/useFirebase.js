@@ -25,7 +25,7 @@ const useFirebase = () => {
      }
 
      useEffect(() => {
-          const unscribed = onAuthStateChanged(auth, user => {
+          const unsubscribed = onAuthStateChanged(auth, user => {
                if (user) {
                     setUser(user)
                }
@@ -35,7 +35,7 @@ const useFirebase = () => {
                setLoading(false);
           })
 
-          return () => unsucsribed;
+          return () => unsubscribed;
 
      }, [])
 

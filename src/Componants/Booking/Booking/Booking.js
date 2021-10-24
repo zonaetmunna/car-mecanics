@@ -9,9 +9,9 @@ const Booking = () => {
 
      const [details, setDetails] = useState({})
      useEffect(() => {
-          fetch('/services.json')
+          fetch(`http://localhost:5000/services/${id}`)
                .then(res => res.json())
-               .then(data => setDetails(data[0]))
+               .then(data => setDetails(data))
      }, [])
 
      const handleBack = () => {

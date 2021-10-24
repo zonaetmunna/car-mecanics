@@ -3,10 +3,10 @@ import { useHistory } from 'react-router';
 import './Service.css'
 
 const Service = ({ service }) => {
-     const { id, img, price, name, description } = service;
+     const { _id, img, price, name, description } = service;
      const history = useHistory();
 
-     const url = `/booking/${id}`
+     const url = `/booking/${_id}`
 
      const handleBooking = () => {
           history.push(url);

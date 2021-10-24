@@ -11,6 +11,8 @@ import Header from './Componants/Shared/Header';
 import AuthProvider from './Context/AuthProvider';
 import PrivateRoute from './Componants/Login/PrivateRoute/PrivateRoute';
 import Service from './Componants/Home/Service/Service';
+import AddService from './Componants/AddService/AddService';
+import ManageServices from './Componants/ManageServices/ManageServices';
 
 
 
@@ -33,6 +35,12 @@ function App() {
             </PrivateRoute>
             <Route path="/login">
               <Login></Login>
+            </Route>
+            <Route path="/addService">
+              <AddService></AddService>
+            </Route>
+            <Route path="/manageServices">
+              <ManageServices></ManageServices>
             </Route>
             <Route path="*">
               <NotPound></NotPound>
